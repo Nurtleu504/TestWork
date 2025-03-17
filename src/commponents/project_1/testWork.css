@@ -1,0 +1,158 @@
+.TestWork{
+    display: flex;
+    justify-content: center;
+}
+.TestWorkcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #447DCE;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    width: 1200px;
+    height: 695px;
+    
+  }
+  
+  .section {
+    position: relative;
+    width: 100%;
+    
+
+
+  }
+  
+  .circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 0;
+  }
+  .circle-2{
+    margin-bottom:280px ;
+  }
+  
+  .leftright {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    margin: 60px 80px;
+  }
+  
+  .left-section {
+    width: 50%;
+    padding-right: 40px;
+    color: white;
+  }
+  .left-section h2{
+    font-size: 40px;
+    font-weight: 700;   
+    text-transform: uppercase;
+  }
+  .left-section p {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 40px;
+  }
+  .left-section li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 22px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 569;
+  }
+  .emoji img{
+    width: 60px;
+    height: 60px;
+    margin-right: 32px;
+
+  }
+  .final-text {
+    display: block;
+    margin: 65px 0 16px 0;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .complete-button {
+    margin-top: 24px 0 60px;
+    padding: 17px 89px;
+    border: 2px solid  #F8CC34;
+    ;
+    border-radius: 8px;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .complete-button:hover {
+    background: white;
+    color: #2563eb;
+  }
+  .right-section {
+    background-color: white;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 40%;
+    text-align: center;
+  }
+  @media (min-width: 1024px) {
+    .right-section {
+      margin-top: 0;
+      margin-left: 32px;
+    }
+  }
+  .right-section h3 {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin: 40px 0;
+    color: black;
+  }
+
+  .input-field {
+    width: 100%;
+    padding: 18px 12px;
+    margin: 12px 0;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    outline: none;
+    font-size: 17px;
+    font-weight: 400;
+  }
+  
+  .input-field:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 5px rgba(59, 130, 246, 0.5);
+  }
+  
+  .submit-button {
+    width: 100%;
+    background-color: #f59e0b;
+    color: white;
+    padding: 17px ;
+    margin: 12px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+    font-size: 17px;
+    font-weight: 600;
+
+  }
+  
+  .submit-button:hover {
+    background-color: #d97706;
+  }
+  

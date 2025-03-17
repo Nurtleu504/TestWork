@@ -1,0 +1,48 @@
+.sale{
+    display: flex;
+    justify-content: center;
+    height: 432px;
+}
+.salecontainer {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #447DCE;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    width: 1200px;
+    height: 432px;
+    padding: 0 48px;
+  }
+  .salecontent{
+    position: relative;
+    text-align: left;
+    color: white;
+    max-width: 100%;
+  }
+  .salecontainer h1{
+    font-weight: 700;
+    font-size: 40px;
+    display: inline;;
+  }
+  .salecontainer p{
+    margin: 24px 0 46px;
+font-weight: 400;
+font-size: 20px;
+
+  }
+.salecontentform{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1112px;
+    column-gap: 32px;
+    color: black;
+    margin-bottom: 12px;
+}
+.mr-2{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 16px;
+}

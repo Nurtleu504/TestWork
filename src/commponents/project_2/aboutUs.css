@@ -1,0 +1,36 @@
+.aboutus{
+    margin: 150px 0;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 1200px;
+}
+.container h1{
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 87px;
+
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 47px;
+}
+.content-text-k{
+    font-weight: 700;
+    font-size: 24px;
+}
+.content-text{
+    width: 608px;
+font-weight: 400;
+font-size: 20px;
+text-align: right;
+}
+.content-text-us{
+ text-align: left;
+
+
+}
