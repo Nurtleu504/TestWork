@@ -2,6 +2,8 @@
 # TestWork
 небольшое тестовое задание
 =======
+![Снимок экрана 2025-03-17 111304](https://github.com/user-attachments/assets/b279942b-4618-474b-8ef6-772f72947ce8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
