@@ -32,7 +32,7 @@ export default function Sale() {
         onChange={(e) => setPhone(e.target.value)} className="input-field" />
                     <button className="submit-button">Получить консультацию</button>
                </form>
-               <label className="flex items-center text-white mg-top-12px">
+               <label className="flex items-center text-white">
                     <input
                     type="checkbox"
                     checked={isChecked}
