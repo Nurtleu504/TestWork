@@ -3,6 +3,9 @@
 небольшое тестовое задание
 =======
 ![Снимок экрана 2025-03-17 111304](https://github.com/user-attachments/assets/b279942b-4618-474b-8ef6-772f72947ce8)
+![Снимок экрана 2025-03-17 111623](https://github.com/user-attachments/assets/496904c6-1650-4f73-8352-3a59e74cba3b)
+![Снимок экрана 2025-03-17 111702](https://github.com/user-attachments/assets/61cd7bb9-b193-4264-80b2-c8cbd060281a)
+
 
 # Getting Started with Create React App
 
